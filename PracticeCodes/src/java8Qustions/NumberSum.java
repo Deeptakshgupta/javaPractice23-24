@@ -1,4 +1,4 @@
-package java8Qustions;
+	package java8Qustions;
 
 // Collectors.summingInt(Integer.parseInt)
 
