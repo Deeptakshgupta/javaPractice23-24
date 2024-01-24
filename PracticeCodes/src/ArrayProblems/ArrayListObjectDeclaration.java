@@ -1,6 +1,7 @@
 package ArrayProblems;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /** Difference between 
@@ -42,6 +43,7 @@ public class ArrayListObjectDeclaration {
 		list.add(2);
 		list.add(3);
 		list.add(4);
+		
 		
 		int g = list.indexOf(0);
 		System.out.println(g);
